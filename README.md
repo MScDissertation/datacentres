@@ -2,7 +2,7 @@
 
 Using data from https://github.com/mlco2/impact/tree/master/data
 
-From the repository main sources are:
+From the repository, main sources for emissions are:
 
 - [Emissions & Generation Resource Integrated Database (eGRID) - 2016](https://www.epa.gov/energy/emissions-generation-resource-integrated-database-egrid)
 - [Electricity Map - 2019](https://www.electricitymap.org/?page=map&solar=false&remote=true&wind=false)
