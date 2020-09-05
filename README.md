@@ -1,6 +1,6 @@
 # Exploratory data analysis for datacentres and GPUs/TPUs
 
-Updated data from https://github.com/mlco2/impact/tree/master/data
+Updated data from https://github.com/shivangidas/impact/tree/master/data
 
 Main sources for emissions are:
 
